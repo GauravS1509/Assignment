@@ -27,7 +27,7 @@ Enter an operator (+, -, *, /): ");
          return;
       }
       System.out.print("
-The result is given as follows ,,,,,
+The result is given as follows........
 ");
       System.out.printf(num1 + " " + op + " " + num2 + " = " + ans);
    }
